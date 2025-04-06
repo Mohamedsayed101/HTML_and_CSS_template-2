@@ -705,6 +705,24 @@
     margin-bottom: 20px;
     display: block;
   }
+  .quote q::after {
+    font-family: "Font Awesome 5 Free";
+    content: "\f10e";
+    font-weight: 900;
+    margin-left: 10px;
+    position: relative;
+    top: 10px;
+    color:var(--main-color);
+  }
+  .quote q::before {
+    font-family: "Font Awesome 5 Free";
+    content: "\f10d";
+    font-weight: 900;
+    margin-right: 10px;
+    position: relative;
+    top: -10px;
+    color:var(--main-color);
+  }
   /* End Quote */
   /* Start Pricing */
   .pricing {
