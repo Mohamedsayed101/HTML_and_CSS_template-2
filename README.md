@@ -76,8 +76,8 @@ git clone https://github.com/Mohamedsayed101/HTML_and_CSS_template-2
 
 You can deploy the template easily using:
 
-- [GitHub Pages](https://pages.github.com/)  
-- [Netlify](https://www.netlify.com/)  
+- [GitHub Pages](https://mohamedsayed101.github.io/HTML_and_CSS_template-2/)  
+- [Netlify](https://kasperprojec.netlify.app/)  
 
 ---
 
